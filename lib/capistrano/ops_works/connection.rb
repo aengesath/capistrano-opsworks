@@ -1,4 +1,4 @@
-require 'aws/ops_works'
+require 'aws-sdk-opsworks'
 
 module Capistrano
   module OpsWorks
